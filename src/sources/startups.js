@@ -464,6 +464,30 @@ export let startups = [
             "width": ""
         },
         {
+            "src": "img/manguez_files/imply.jpg",
+            "type": "startups-in",
+            "alt_br": "Imply - Estúdio de inovação na área de software criada com a missão de desenvolver produtos de alta relevância para o mercado e nossos clientes",
+            "alt_en": "",
+            "link": "http://www.implystudio.com/",
+            "width": ""
+        },
+        {
+            "src": "img/manguez_files/hashcat.jpg",
+            "type": "startups-in",
+            "alt_br": "Hashcat - O serviço materializa redes sociais em ações promocionais por meio de transmissões ao vivo de fotos, videos e tweets, assim como impressão de fotos via hashtags",
+            "alt_en": "",
+            "link": "http://www.hash-cat.com/",
+            "width": ""
+        },
+            {
+            "src": "img/manguez_files/faro.jpg",
+            "type": "startups-in",
+            "alt_br": "Faro - O produto de tecnologia focada em gestão que atua no setor da indústria, provendo soluções de gerenciamento e rastreamento de produtos para seus clientes.",
+            "alt_en": "",
+            "link": "http://www.getfaro.com/",
+            "width": ""
+        },
+        {
             "src": "img/manguez_files/impact-hub-recife.png",
             "type": "coworking-spaces",
             "alt_br": "",
